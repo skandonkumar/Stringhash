@@ -86,3 +86,5 @@ Example Output
 32000 33 ABCDEFGHIJ 5207 
 32000 33 BACDEFGHIJ 12919 
 32000 33 %^@abc++=903#?..." 11238
+
+//If you think the text is not in format, please hit the raw button on the top.
